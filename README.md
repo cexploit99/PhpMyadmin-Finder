@@ -2,6 +2,9 @@
 this tools is for scanning phpmyadmin / mysql directory on a website or known as finder
 # CX99
 
+<img src="https://github.com/cexploit99/PhpMyadmin-Finder/blob/main/phpmyadmin.jpg" height="600"/>
+<br><br>
+
 # How to Use ?
 > make sure you have installed python 2
 
