@@ -1,18 +1,18 @@
 # PHPMyAdmin Finder
 this tools is for scanning phpmyadmin / mysql directory on a website or known as finder
-# Kirnath x ZeroByte.ID
+# CX99
 
 # How to Use ?
-> make sure you have installed python 2.x.x
+> make sure you have installed python 2
 
->> pip install requests
+>> pip2 install requests
 
->> pip install urllib3
+>> pip2 install urllib3
 
->> pip install termcolor
+>> pip2 install termcolor
 
->> git clone https://github.com/kirnath/phpmyadmin-finder.git
+>> git clone https://github.com/cexploit99/PhpMyadmin-Finder
 
->> cd phpmyadmin-finder
+>> cd PhpMyadmin-Finder
 
->> py find.py
+>> python2 find.py
